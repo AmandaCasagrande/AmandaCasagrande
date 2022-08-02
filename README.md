@@ -3,13 +3,13 @@
 
 ## Sobre mim
 
-> * Desenvolvedora Júnior @ everis Brasil
+> * Desenvolvedora Full Stack @ Sênior Sistemas
 > * Análise e Desenvolvimento de Sistemas, IFSC
 
 
 ## Atuações e Interesses
 
-> - :computer: Atuo como Programadora Java na everis Brasil, na squad de Consignado do Banco Itaú;
+> - :computer: Atuo como Programadora Full Stack na Sênior Sistemas, na área da Fábrica de Software;
 > - :four_leaf_clover: Voluntária no Projeto de Pesquisa e Extensão Elas Digitais, com objetivo de incentivar as mulheres na T.I;
 > - :hearts: Participei da BECA Java 2020, na everis Brasil;
 > - :books: Aluna em Linguagem Python, no Programa Entra 21 em 2020;
