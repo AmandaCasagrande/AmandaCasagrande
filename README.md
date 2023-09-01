@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-> * Desenvolvedora Full Stack 
+> * Desenvolvedora Full Stack | Java + Angular
 > * Análise e Desenvolvimento de Sistemas, IFSC
 
 
